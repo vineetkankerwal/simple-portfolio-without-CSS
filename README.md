@@ -1,1 +1,1 @@
-# simple-portfolio-without-CSS
+# simple-resume-without-css
